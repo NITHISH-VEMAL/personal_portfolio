@@ -1,0 +1,13 @@
+
+html,body{
+  background-image: url('https://cdn.dribbble.com/users/186058/screenshots/2168462/bg-animated.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    height:100%;
+    font-family: 'Josefin Sans', sans-serif;
+     max-height: 500px;
+}
+
+
+

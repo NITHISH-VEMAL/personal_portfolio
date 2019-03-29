@@ -1,0 +1,22 @@
+
+html,body{
+    
+     background-image: url('https://cdn.dribbble.com/users/186058/screenshots/2168462/bg-animated.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: right;
+    height:auto;
+    font-family:monospace ;
+   
+}
+
+
+
+
+
+.card {
+    
+        margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+}
